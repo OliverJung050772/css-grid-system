@@ -1,0 +1,44 @@
+body {
+    box-sizing: border-box;
+}
+
+div {
+    border: 1px solid grey;
+}
+
+div.container {
+    display: flex;
+}
+
+div.column {
+    float: left;
+}
+
+div.row {
+    width: 100%;
+    display: inline-flex;
+}
+
+div.col1 {
+    width: 16.65%;   
+}
+
+div.col2 {
+    width: 33.32%;
+}
+
+div.col3 {
+    width: 49.99%;
+}
+
+div.col4 {
+    width: 66.65%;
+}
+
+div.col5 {
+    width: 83.32%;
+}
+
+div.col6 {
+    width: 99.99%;
+}
